@@ -1,0 +1,18 @@
+body {
+  min-height: 100vh;
+  color: black;
+}
+
+a { text-decoration: none; }
+a:hover {text-decoration: underline;}
+
+#temp-splash {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+  max-width: 600px;
+}
