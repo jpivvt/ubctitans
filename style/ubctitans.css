@@ -30,3 +30,9 @@ a:hover {text-decoration: underline;}
   width: 100%;
   max-width: 600px;
 }
+
+#titans-logo {
+  width: 100%;
+  max-width: 90vw;
+  height: auto;
+}
