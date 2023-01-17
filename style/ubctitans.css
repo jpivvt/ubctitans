@@ -6,6 +6,12 @@ body {
 }
 
 main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
   min-height: 100vh;
 }
 
